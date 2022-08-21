@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+AngularApp is live at : https://ahmad1156.github.io/Video-games/.
+
+AngularApp with open-source-Api(RAWG video-games-db),with angular-routes,components,interceptors,services.
